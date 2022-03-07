@@ -13,24 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Free Consulting Company Website - Tachyons Templates Theme
-nav-title: Tachyons Templates
-header-headline: Consultant - Showcase your consulting agency/company!
-header-subheadline: "Tachyons Templates is a great way to get started building websites using the tachyons css framework. Simply download and launch your site within minutes."
-email: feedback@tachyonstemplates.com
-telephone: 123-456-7899
+title: Covariant Development Inc.
+nav-title: Covariant Development
+header-headline: Software development and consulting services
+header-subheadline: "Covariant specializes in C# and TypeScript development. We offer services"
+email: nick@covariantdev.com
+telephone: 647-896-8567
 download-link: "http://www.tachyonstemplates.com/template-overviews/tachyons-consultant/?from=live-preview"
 description: > # a simple web app launch site built using tachyons
-baseurl: "/tachyons-consultant" # the subpath of your site, e.g. /blog
-url: "http://www.blairanderson.co" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/covariant-dev" # the subpath of your site, e.g. /blog
+url: "https://covariant.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 social-icons:
- - title: Facebook
-   url: https://facebook.com/example
-   class: facebook
- - title: Twitter
-   url: https://twitter.com/blairanderson
-   class: twitter
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/nick-strupat-7a586751/
+   class: linkedin
+ - title: GitHub
+   url: https://github.com/NickStrupat
+   class: github
 
 photos:
   - link: "https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music"
