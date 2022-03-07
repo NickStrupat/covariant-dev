@@ -16,12 +16,12 @@
 title: Covariant Development Inc.
 nav-title: Covariant Development
 header-headline: Software development and consulting services
-header-subheadline: "Covariant specializes in C# and TypeScript development. We offer services"
+header-subheadline: "Covariant specializes in C# and TypeScript development including ASP.NET Core, Entity Framework, and Angular 2+"
 email: nick@covariantdev.com
 telephone: 647-896-8567
 download-link: "http://www.tachyonstemplates.com/template-overviews/tachyons-consultant/?from=live-preview"
 description: > # a simple web app launch site built using tachyons
-baseurl: "/covariant-dev" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://covariant.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 social-icons:
